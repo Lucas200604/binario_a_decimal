@@ -8,4 +8,10 @@
 
 ## Aportes
 
-He creado el archivo .py que contiene un algoritmo para pasar los números de decimal a binario, creo el archivo README.md, .gitignore y el informe en latex.
+**Lucas Ramírez:**
+
+ 1. Informe Latex
+ 2. .gitignore
+ 3. Archivo README
+ 4. Algoritmo en python
+ 5. Push y commits
